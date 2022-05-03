@@ -1,0 +1,24 @@
+#top_app_bar {
+  background-color: #555;
+  height: 104px;
+
+}
+#logo {
+}
+
+
+#search {
+  background-color: #444;
+  height: 48px;
+}
+
+#title {
+  background-color: #333;
+  height: 96px;
+}
+
+#bottom_navigation {
+  position: fixed;
+  bottom: 0;
+  height: 112px;
+}
